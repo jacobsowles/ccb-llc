@@ -1,5 +1,5 @@
 # CCB LLC
 
-CCB LLC is a software development company in Portland, Oregon that builds web and mobile applications.
+CCB LLC is a company in Sherwood, Oregon providing professional consulting and service-based solutions across software development and other specialized service areas.
 
-To get in touch, please email [contact@ccb.llc](mailto:contact@ccb.llc).
+For business inquiries, please email [contact@ccb.llc](mailto:contact@ccb.llc).
